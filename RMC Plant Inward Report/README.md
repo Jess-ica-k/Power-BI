@@ -48,6 +48,9 @@ The **Inward Report Overview Dashboard** is designed to monitor the inward movem
 - **Cost Analysis**: Include total cost breakdown by material and supplier.
 - **Real-Time Monitoring**: Enable dynamic updates for live data tracking.
 
+<img width="593" alt="image" src="https://github.com/user-attachments/assets/7482180c-58c3-400a-bbe1-be50fb20ec63">
+
+
 ---
 
 
